@@ -1,12 +1,9 @@
-import java.util.Arrays;
-
 public class LinkedListDemo {
     private Node head;
 
     public LinkedListDemo(Integer value) {
         this.head = new Node(value);
     }
-
 
     public void add(Integer value) {
         
@@ -159,7 +156,5 @@ public class LinkedListDemo {
 
         return output.toString();
     }
-
-
 
 }
