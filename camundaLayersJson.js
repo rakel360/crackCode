@@ -43,5 +43,13 @@ let something = [
     }
 ]
 
-let case2= "{\"netWeight\":45.00,\"codeDate\":null,\"fullBarcode\":null,\"lpn\":\"00108402279006226692\",\"layer\":\"1\",\"customerSerialCode\":null,\"inventoryId\":\"00108402279006226692\"}"
+let case2 =  {
+    "netWeight": 45,
+    "codeDate": null,
+    "fullBarcode": null,
+    "lpn": "00108402279006226692",
+    "layer": "1",
+    "customerSerialCode": null,
+    "inventoryId": "00108402279006226692"
+}
 
